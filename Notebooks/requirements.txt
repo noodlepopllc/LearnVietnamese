@@ -1,6 +1,6 @@
-jupyter
-ipywidgets
 scipy
 transformers
-ipyfilechooser
 openai-whisper
+jupyter
+ipywidgets
+ipyfilechooser
