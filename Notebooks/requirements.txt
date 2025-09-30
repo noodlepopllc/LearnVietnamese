@@ -1,6 +1,9 @@
 scipy
 transformers
 openai-whisper
+hf_xet
+sentencepiece
+protobuf
 jupyter
 ipywidgets
 ipyfilechooser
